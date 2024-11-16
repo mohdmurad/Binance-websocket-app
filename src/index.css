@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+html{
+    height: 100%;
+}
+
+
+body{
+    position: relative;
+      /* background-color: #0a080d;   */
+       background-color: black; 
+      font-family: 'Urbanist';
+
+    min-height: 100%;
+    margin: 0;
+    padding-bottom: 6.74rem;
+
+}
+
